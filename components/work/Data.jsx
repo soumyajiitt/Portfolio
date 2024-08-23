@@ -2,6 +2,7 @@ import Work1 from "../../src/assets/Work1.png";
 import Work2 from "../../src/assets/Work2.png";
 import Work3 from "../../src/assets/Work3.png";
 import Work4 from "../../src/assets/Work4.png";
+import Work5 from "../../src/assets/Work5.png";
 
 export const projectsData = [
     {
@@ -30,13 +31,13 @@ export const projectsData = [
     },
     {
       id: 5,
-      image: Work4,
+      image: Work5,
       title: "JIRABoard",
       category: "web",
     },
     {
         id: 6,
-        image: Work4,
+        image: Work5,
         title: "TNY.io",
         category: "web",
       },
